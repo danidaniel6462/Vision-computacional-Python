@@ -1,5 +1,6 @@
 # Visión computacional con Python
 
+Revisar el documento "Recopilación Visión Daniel Loza", ahi existe documentación de cada algoritmo y sus resultados
 
 # Temas 
 
